@@ -7,6 +7,7 @@ Drop into your TacO's POIs directory
 # Screenshots
 ## Map View
 ![Map View](./Screenshots/gw230.jpg)
+![Map View](./Screenshots/ew_junkyard.jpg)
 
 ## Jade Tech Chest
 ![Jade Tech Chest](./Screenshots/jtc.jpg)
